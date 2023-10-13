@@ -4,11 +4,13 @@
 <div align="center"> Whisky I'm drinking while codding: Yushan Signature Bourbon Cask<br>
 Artist of the moment: Noah Kahan</div>
 
+ <img src="../AdelnorAcmorux/SCOTCH/yushan_signature.jpg" alt="Description of the image">
+  <img src="../AdelnorAcmorux/ARTIST/noah_kahan.jpg" alt="Description of the image">
 ---
 
 <div align="center"><h1><b>FLUF BUDDY</b></h1></div>
 <div align="center">Yeah, I'm a cat guy. Now appreciate my beauties</div>
-![gojo jpg](https://github.com/AdelnorAcmorux/AdelnorAcmorux/assets/140647944/88193fcb-3dbc-4aab-8ea5-d36d9b7de8e1)
+ <img src="path/to/local/image.jpg" alt="Description of the image">
 
 ---
 
