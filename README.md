@@ -6,7 +6,9 @@ Artist of the moment: Noah Kahan</div>
 
 ---
 
-**CAT** | **PROJECT**
+<div align="center"><h1><b>FLUF BUDDY</b></h1></div>
+<div align="center">Yeah, I'm a cat guy. Now appreciate my beauties</div>
+![gojo jpg](https://github.com/AdelnorAcmorux/AdelnorAcmorux/assets/140647944/88193fcb-3dbc-4aab-8ea5-d36d9b7de8e1)
 
 ---
 
