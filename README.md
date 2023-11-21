@@ -8,8 +8,8 @@
   </br></br>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vianpyro&hide=issues&show_icons=true&theme=github_dark_dimmed"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vianpyro&layout=compact&theme=github_dark_dimmed"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdelnorAcmorux&hide=issues&show_icons=true&theme=github_dark_dimmed"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelnorAcmorux&layout=compact&theme=github_dark_dimmed"/>
 
   </br></br>
   <img height="100" title="Python" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -28,5 +28,5 @@
   Deciding between one more game and one more set is my everyday challenge
   </br></br>
   
-  <img src="https://komarev.com/ghpvc/?username=Vianpyro&color=red"/>
+  <img src="https://komarev.com/ghpvc/?username=AdelnorAcmorux&color=red"/>
 </div>
