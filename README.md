@@ -1,4 +1,4 @@
-# Adelnor Acmorux
+# 🍻 Adelnor Acmorux 🍻
 
 **`Futur wizard of computing (I'm a student)`**
 
@@ -17,20 +17,20 @@ Currently, my existence revolves around the delicate art of surviving lectures, 
 
 ---
 
-###  Languages
+### 🤖 Languages
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img height="100" title="C" alt="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
 
 #
 
-### 📺 What is that melody?
+### 🎵 What is that melody?
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leo.silver.7o7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
