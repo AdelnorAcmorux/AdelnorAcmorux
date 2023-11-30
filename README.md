@@ -38,7 +38,6 @@ Currently, my existence revolves around the delicate art of surviving lectures, 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelnorAcmoruxt&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AdelnorAcmorux&hide=issues&show_icons=true&theme=github_dark_dimmed"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelnorAcmorux&layout=compact&theme=github_dark_dimmed"/>
 
